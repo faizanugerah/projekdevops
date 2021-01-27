@@ -14,9 +14,9 @@ public class ModelProgram {
 	private double input;
 	public double a = 0;
 	public double b = 0;
-	double idr_to_eur = 0.000056;
-	double idr_to_usd = 0.000061;
-	double idr_to_jpy = 0.0067;
+	double idr_to_eur = 0.000077;
+	double idr_to_usd = 0.000053;
+	double idr_to_jpy = 0.0093;
 	double eur_to_idr = 17819;
 	double eur_to_usd = 1.08;
 	double eur_to_jpy = 119.39;
